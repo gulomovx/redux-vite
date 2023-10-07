@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600;700&family=Lato&family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,100&family=Nunito+Sans:wght@300;400;800&family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,200;1,300;1,400&family=Roboto:ital@0;1&display=swap'); */
+/* @import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap); */
+
+/* @layer base{
+    @font-face {
+        font-family: 'Poppins';
+        src: url(./Font/Poppins-Medium.ttf);
+    } */
+    /* *{
+        padding: 0;
+        left: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins';
+    }
+    .sidebar-container{
+         @apply bg-glass h-[96%] w-[20rem] rounded-3xl ml-6 p-4
+         border transition-all duration-500 border-solid border-glass relative
+    }
+    .sidebar{
+        @apply flex items-center mt-2 p-4 rounded-lg cursor-pointer hover:bg-gray-200 gap-2 text-xl transition-all duration-300
+    }
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}; */
